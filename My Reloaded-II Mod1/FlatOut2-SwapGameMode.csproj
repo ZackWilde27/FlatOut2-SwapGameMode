@@ -7,7 +7,7 @@
     <LangVersion>12.0</LangVersion>
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
-    <OutputPath>$(RELOADEDIIMODS)/My_Reloaded_II_Mod1</OutputPath>
+    <OutputPath>$(RELOADEDIIMODS)/FlatOut2_SwapGameMode</OutputPath>
     <ImplicitUsings>enable</ImplicitUsings>
 
     <!-- IL Trimming Support for Framework Dependent Apps. Unofficial.
@@ -17,11 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="GameStuff.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ReloadedLinkRoots Include="My_Reloaded_II_Mod1" />
+    <ReloadedLinkRoots Include="FlatOut2_SwapGameMode" />
     <!-- Add assemblies to be trimmed. You might need to add their dependencies too!  -->
     <!-- <ReloadedLinkAssemblies Include="Reloaded.Memory" /> -->
   </ItemGroup>
