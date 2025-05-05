@@ -1,0 +1,21 @@
+{
+  "ModId": "flatout2.zw.swapgamemode",
+  "ModName": "Swap Game Mode",
+  "ModAuthor": "Zack Wilde",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Everybody switches cars every 30 seconds. Is it fun? The jury's still out on that one. (This mod does not work with the Steam version)",
+  "ModDll": "FlatOut2_SwapGameMode.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "FlatOut2_SwapGameMode.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [ "flatout2.exe" ],
+  "ProjectUrl": ""
+}

@@ -1,0 +1,15 @@
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\Preview.png
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\ModConfig.json
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\My Reloaded-II Mod1.deps.json
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\My Reloaded-II Mod1.dll
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\My Reloaded-II Mod1.pdb
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.csproj.AssemblyReference.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.GeneratedMSBuildEditorConfig.editorconfig
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.AssemblyInfoInputs.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.AssemblyInfo.cs
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.csproj.CoreCompileInputs.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloa.AF88FE4E.Up2Date
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.dll
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\refint\My Reloaded-II Mod1.dll
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\My Reloaded-II Mod1.pdb
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\ref\My Reloaded-II Mod1.dll

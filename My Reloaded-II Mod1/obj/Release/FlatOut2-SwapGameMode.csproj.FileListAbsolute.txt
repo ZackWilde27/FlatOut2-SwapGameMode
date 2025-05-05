@@ -1,0 +1,15 @@
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\Preview.png
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\ModConfig.json
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\FlatOut2-SwapGameMode.deps.json
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\FlatOut2-SwapGameMode.dll
+C:\Users\zackw\Desktop\Reloaded-II\Mods\My_Reloaded_II_Mod1\FlatOut2-SwapGameMode.pdb
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.csproj.AssemblyReference.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.GeneratedMSBuildEditorConfig.editorconfig
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.AssemblyInfoInputs.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.AssemblyInfo.cs
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.csproj.CoreCompileInputs.cache
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2.75D4CCFA.Up2Date
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.dll
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\refint\FlatOut2-SwapGameMode.dll
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\FlatOut2-SwapGameMode.pdb
+D:\reloadedmods\My Reloaded-II Mod1\My Reloaded-II Mod1\obj\Release\ref\FlatOut2-SwapGameMode.dll
