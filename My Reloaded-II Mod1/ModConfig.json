@@ -4,7 +4,7 @@
   "ModAuthor": "Zack Wilde",
   "ModVersion": "1.0.0",
   "ModDescription": "Everybody switches cars every 30 seconds. Is it fun? The jury's still out on that one. (This mod does not work with the Steam version)",
-  "ModDll": "FlatOut2_SwapGameMode.dll",
+  "ModDll": "FlatOut2-SwapGameMode.dll",
   "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "",
   "ModR2RManagedDll64": "",
