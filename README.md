@@ -1,5 +1,6 @@
 # FlatOut2 Swap Game Mode
-This is my first mod with reloaded, I'm still trying to figure out how all this works
+
+The xNya version can be found [here](https://github.com/ZackWilde27/FlatOut2_SwapGameMode_xNya)
 
 This mod adds a mechanic where every 30ish seconds, everybody switches cars
 
