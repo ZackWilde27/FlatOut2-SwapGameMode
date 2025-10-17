@@ -8,4 +8,4 @@ Is it fun? The jury's still out on that one
 
 You can adjust the settings to change things like how often the switch occurs, or whether everyone switches in-place or teleports to their new car
 
-*It does not work in online matches or with the steam version, unfortunately*
+*It does not work with the steam version, unfortunately*
