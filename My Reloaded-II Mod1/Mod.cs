@@ -268,7 +268,9 @@ namespace FlatOut2_SwapGameMode
 		{
 			if (playerID == 1)
 			{
+#if ONLINE_FRIENDLY
 				RandomIndex = 0;
+#endif
 				Stopwatch.Restart();
 				allPlayers.Clear();
 				DidThat = false;
